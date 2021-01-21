@@ -1,5 +1,26 @@
 # Learning-C
 LinkedIn Learning
+
 Instructor: Dan Gookin
-Modules: Sending text to output, working with escape sequences, 
-working with values and placeholders, Experimenting with variables, Using character I/O, exploring with the scanf() function, Working with strings in C, Understanding arithmetic in C, if-else statements, looping with while, for loop, nested loop, functions, logical expression, arrays, multidimensional array, understanding structures, understanding pointers, char pointer, accessing array with pointers, creating pointer functions, working with pointer arrays
+
+1. Sending text to output, 
+2. working with escape sequences, 
+3. working with values and placeholders, 
+4. Experimenting with variables, 
+5. Using character I/O, 
+6. exploring with the scanf() function, 
+7. Working with strings in C, 
+8. Understanding arithmetic in C, 
+9. if-else statements, 
+10. looping with while, 
+11. for loop, nested loop, 
+12. functions, 
+13. logical expression, 
+14. arrays, 
+15. multidimensional array, 
+16. understanding structures, 
+17. understanding pointers, 
+18. char pointer, 
+19. accessing array with pointers, 
+20. creating pointer functions, 
+21 working with pointer arrays
